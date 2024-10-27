@@ -1,0 +1,4 @@
+.env
+ansible_home
+config
+.DS_Store
